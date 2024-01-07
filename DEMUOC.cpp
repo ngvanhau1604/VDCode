@@ -5,8 +5,7 @@ using namespace std;
 int main()
 {
     long long n;
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
+    
     cin >> n;
     int a[1000];
     a[0] = 1;
